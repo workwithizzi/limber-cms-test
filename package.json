@@ -1,0 +1,12 @@
+{
+	"name": "limber-cms-test",
+	"private": true,
+	"description": "",
+	"version": "0.1.0",
+	"author": "Izzi",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/workwithizzi/limber-cms-test"
+	}
+}
