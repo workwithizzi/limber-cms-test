@@ -11,9 +11,27 @@ config_path: limber # If not provided, 'limber/' directory is used.
 groups:
 - label: Pages # Display name for the UI
   description: All 'articles' from content-types in the 'Pages' group
+  content_types:
+  - label: Home Page
+    file: home-page
+    content_path: content/pages
+  - label: Default Page
+    file: default-page
+    content_path: content/pages
+  - label: Contact Page
+    file: contact-page
+    content_path: content/pages
 - label: Blog Posts
+  content_types:
+  - label: Posts
+    file: posts
+    content_path: content/posts
 - label: Podcasts
   description: All 'articles' from content-types in the 'podcasts' group
+  content_types:
+  - label: Podcasts
+    file: podcasts
+    content_path: content/podcasts
 - label: Globals
   description: Reusable sections of content. Like 'site-footer', 'header', 'nav', etc.
 
