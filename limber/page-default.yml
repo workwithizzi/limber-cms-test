@@ -1,6 +1,6 @@
 label: Default Page
 name: default-page
-file: content/pages
+path: content/pages
 group: Pages
 create: 'true'
 delete: 'true'

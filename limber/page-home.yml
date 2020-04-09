@@ -1,6 +1,6 @@
 label: Home Page
 name: home-page
-file: content/pages
+path: content/pages
 group: Pages
 create: 'true'
 delete: 'true'

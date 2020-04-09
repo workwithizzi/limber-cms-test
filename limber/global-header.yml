@@ -1,6 +1,6 @@
 label: Header
 name: header
-file: content/globals
+path: content/globals
 group: Globals
 create: 'true'
 delete: 'true'

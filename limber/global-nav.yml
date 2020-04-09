@@ -1,6 +1,6 @@
 label: Nav
 name: nav
-file: content/globals
+path: content/globals
 group: Globals
 create: 'true'
 delete: 'true'

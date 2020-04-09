@@ -1,6 +1,6 @@
 label: Footer
 name: footer
-file: content/globals
+path: content/globals
 group: Globals
 create: 'true'
 delete: 'true'

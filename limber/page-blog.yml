@@ -1,6 +1,6 @@
 label: Blog Page
 name: blog-roll
-file: content/pages
+path: content/pages
 group: Pages
 create: 'true'
 delete: 'true'
