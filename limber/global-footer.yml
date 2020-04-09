@@ -6,6 +6,7 @@ create: 'true'
 delete: 'true'
 repeat: 'true'
 fields:
+  # Need to add fields specific to this kind of example
 - label: Title
   name: title
   widget: string

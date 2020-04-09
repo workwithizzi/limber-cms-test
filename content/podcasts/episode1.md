@@ -1,12 +1,11 @@
 ---
-slug: /
-title: Home
-content-type: home-page
+title: Episode 1
+content-type: podcasts
 status: published
-date: 2020-04-03
+date: 2020-03-25
 ---
 
-## This is the "Home" Page
+## This is the a "Podcast" (content-type) Post
 
 This is filler text... As shadow relevancy and as purple now tufted. I scarcely nevermore and oer upon form a, is by ancient on visiter just front raven, stern the my at tapping back and just distant, a front mystery flirt or seraphim with lattice wondering, whether meaninglittle what still the shore evermore bore blessed. As my muttered into truly i thy the forget, shorn stayed said his flung terrors, more leave entrance nevermore our raven. Seraphim i came soul before upstarting so little.
 

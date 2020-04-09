@@ -1,5 +1,5 @@
 label: Blog Page
-name: blog
+name: blog-roll
 file: content/pages
 group: Pages
 create: 'true'

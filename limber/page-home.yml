@@ -1,5 +1,5 @@
 label: Home Page
-name: index
+name: home-page
 file: content/pages
 group: Pages
 create: 'true'

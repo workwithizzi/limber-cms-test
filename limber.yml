@@ -6,38 +6,43 @@ site_url: example.com
 # Tells Limber where to look for the content-type config files
 config_path: limber # If not provided, 'limber/' directory is used.
 
-# Used in the UI to group articles from related content-types and
-# to create the menu
-groups:
-- label: Pages # Display name for the UI
-  description: All 'articles' from content-types in the 'Pages' group
-  content_types:
-  - label: Home Page
-    file: home-page
-    content_path: content/pages
-  - label: Default Page
-    file: default-page
-    content_path: content/pages
-  - label: Contact Page
-    file: contact-page
-    content_path: content/pages
-- label: Blog Posts
-  content_types:
-  - label: Posts
-    file: posts
-    content_path: content/posts
-- label: Podcasts
-  description: All 'articles' from content-types in the 'podcasts' group
-  content_types:
-  - label: Podcasts
-    file: podcasts
-    content_path: content/podcasts
-- label: Globals
-  description: Reusable sections of content. Like 'site-footer', 'header', 'nav', etc.
-
 # Used in UI for display purposes
 site_title: Example Web Site
 # Project Logo
 logo_path: images/logo.png # Could be a path in repo or url
 # Favicon
 favicon_path: images/favicon.png # Could be a path in repo or url
+
+
+# ############################
+# Not using this because Groups is being gathered from content-type files
+# ############################
+
+# Used in the UI to group articles from related content-types and
+# to create the menu
+# groups:
+# - label: Pages # Display name for the UI
+#   description: All 'articles' from content-types in the 'Pages' group
+#   content_types:
+#   - label: Home Page
+#     file: home-page
+#     content_path: content/pages
+#   - label: Default Page
+#     file: default-page
+#     content_path: content/pages
+#   - label: Contact Page
+#     file: contact-page
+#     content_path: content/pages
+# - label: Blog Posts
+#   content_types:
+#   - label: Posts
+#     file: posts
+#     content_path: content/posts
+# - label: Podcasts
+#   description: All 'articles' from content-types in the 'podcasts' group
+#   content_types:
+#   - label: Podcasts
+#     file: podcasts
+#     content_path: content/podcasts
+# - label: Globals
+#   description: Reusable sections of content. Like 'site-footer', 'header', 'nav', etc.
