@@ -1,0 +1,14 @@
+label: Header
+name: header
+file: content/globals
+group: Globals
+create: 'true'
+delete: 'true'
+repeat: 'true'
+fields:
+- label: Title
+  name: title
+  widget: string
+- label: Subheading
+  name: subheading
+  widget: string
