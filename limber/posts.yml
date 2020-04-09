@@ -1,7 +1,7 @@
 name: posts
 label: Posts
 description: Description of the content-type. Displayed below the title when viewing the types page.
-group: Posts
+# group: Posts
 path: content/posts
 create: 'true'
 delete: 'true'

@@ -1,7 +1,7 @@
-name: podcasts
 label: Podcasts
+name: podcasts
 description: Description of the 'podcasts' content-type. Displayed below the title when viewing the types page.
-group: Podcasts
+# group: Podcasts
 path: content/podcasts
 create: 'true'
 delete: 'true'
