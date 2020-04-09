@@ -1,5 +1,5 @@
 label: Posts
-name: posts
+id: posts
 description: Description of the content-type. Displayed below the title when viewing the types page.
 # group: Posts
 path: content/posts

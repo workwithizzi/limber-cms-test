@@ -1,5 +1,5 @@
 label: Podcasts
-name: podcasts
+id: podcasts
 description: Description of the 'podcasts' content-type. Displayed below the title when viewing the types page.
 # group: Podcasts
 path: content/podcasts

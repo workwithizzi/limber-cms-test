@@ -1,5 +1,5 @@
 label: Home Page
-name: home-page
+id: home-page
 path: content/pages
 group: Pages
 create: 'true'

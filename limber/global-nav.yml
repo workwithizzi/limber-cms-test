@@ -1,5 +1,5 @@
 label: Nav
-name: nav
+id: nav
 path: content/globals
 group: Globals
 create: 'true'

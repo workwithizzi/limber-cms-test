@@ -1,5 +1,5 @@
 label: Default Page
-name: default-page
+id: default-page
 path: content/pages
 group: Pages
 create: 'true'

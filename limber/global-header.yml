@@ -1,5 +1,5 @@
 label: Header
-name: header
+id: header
 path: content/globals
 group: Globals
 create: 'true'
