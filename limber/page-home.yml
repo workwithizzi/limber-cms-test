@@ -1,7 +1,7 @@
 label: Home Page
 id: home-page
 path: content/pages
-group: Pageszzz
+group: Pages
 create: 'true'
 delete: 'true'
 repeat: 'true'
