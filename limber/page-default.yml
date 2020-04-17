@@ -1,6 +1,6 @@
 label: Default Page
 id: default-page
-path: content/default-pages # Just using a different directory for testing
+path: content/pages
 group: Pages
 create: 'true'
 delete: 'true'
