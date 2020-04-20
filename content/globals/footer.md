@@ -8,6 +8,6 @@ menu:
 - label: Blog
   path: /blog
 - label: About Us
-	path: /about
+  path: /about
 credits: This is a credit to the site-creator
 ---
