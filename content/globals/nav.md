@@ -1,4 +1,5 @@
 ---
+title: Navigation
 content-type: nav
 status: published
 date: 2020-04-03
