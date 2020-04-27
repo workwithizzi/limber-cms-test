@@ -1,4 +1,5 @@
 ---
+title: Footer
 content-type: footer
 status: published
 date: 2020-04-01
