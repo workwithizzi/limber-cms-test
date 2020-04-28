@@ -1,6 +1,6 @@
 ---
 title: Episode 3
-content-type: podcasts
+content_type: podcasts
 status: draft
 date: 2020-03-27
 ---

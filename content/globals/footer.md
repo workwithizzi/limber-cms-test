@@ -1,5 +1,5 @@
 ---
-content-type: footer
+content_type: footer
 status: published
 date: 2020-04-01
 menu:

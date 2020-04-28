@@ -1,7 +1,7 @@
 ---
 slug: /blog
 title: Blog
-content-type: blog-roll
+content_type: blog-roll
 status: published
 date: 2020-04-01
 ---

@@ -1,7 +1,7 @@
 ---
 slug: /
 title: Home
-content-type: home-page
+content_type: home-page
 status: published
 date: 2020-04-03
 ---

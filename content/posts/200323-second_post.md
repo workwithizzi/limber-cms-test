@@ -1,6 +1,6 @@
 ---
 title: Second Post
-content-type: posts
+content_type: posts
 status: published
 date: 2020-03-23
 ---

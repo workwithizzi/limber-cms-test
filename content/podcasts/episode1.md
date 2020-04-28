@@ -1,6 +1,6 @@
 ---
 title: Episode 1
-content-type: podcasts
+content_type: podcasts
 status: published
 date: 2020-03-25
 ---
