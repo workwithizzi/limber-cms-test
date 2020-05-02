@@ -1,4 +1,5 @@
 label: Footer
+id: footer
 path: content/globals
 group: Globals
 create: 'true'
