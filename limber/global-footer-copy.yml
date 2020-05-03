@@ -1,0 +1,14 @@
+id: footer
+path: content/globals
+group: Globals
+create: 'true'
+delete: 'true'
+repeat: 'true'
+fields:
+  # Need to add fields specific to this kind of example
+- label: Title
+  name: title
+  widget: string
+- label: Subheading
+  name: subheading
+  widget: string
