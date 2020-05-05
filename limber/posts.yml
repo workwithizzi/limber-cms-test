@@ -1,4 +1,4 @@
-label: Posts
+# label: Posts
 id: posts
 description: Description of the content-type. Displayed below the title when viewing the types page.
 # group: Posts
