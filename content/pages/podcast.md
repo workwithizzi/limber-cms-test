@@ -1,6 +1,6 @@
 ---
 slug: /podcast
-# title: Podcast
+title: Podcast
 content_type: default-page
 status: published
 date: 2020-03-20
